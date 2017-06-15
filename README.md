@@ -1,2 +1,2 @@
 # hello-world
-Trial go.
+Trial go. Editing in the browser.
